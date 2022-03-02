@@ -1,1 +1,13 @@
 https://linuxize.com/post/how-to-use-linux-screen/
+
+Start a screen interface/session:
+> screen -S  "name"
+
+detach from screen
+ctrl+a+d
+
+attach a screen:
+> screen -r "name"
+
+List all the screen session:
+> screen -ls
