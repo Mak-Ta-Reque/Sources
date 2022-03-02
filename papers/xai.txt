@@ -1,0 +1,3 @@
+Interpretable Image Recognition with Hierarchical Prototypes
+https://ojs.aaai.org/index.php/HCOMP/article/view/5265/5117
+
