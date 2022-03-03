@@ -1,1 +1,4 @@
 https://paperswithcode.com/sota/image-classification-on-imagenet
+Google blog Sep 2021, Image Recognition :
+  https://ai.googleblog.com/2021/09/toward-fast-and-accurate-neural.html
+  
