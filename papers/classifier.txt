@@ -4,3 +4,12 @@ https://github.com/xmu-xiaoma666/External-Attention-pytorch/blob/master/model/at
 https://arxiv.org/pdf/2104.00298.pdf
 SAM:
 https://github.com/google-research/sam
+
+Efficient Net: 
+https://arxiv.org/abs/1905.11946
+V2: https://arxiv.org/pdf/2104.00298.pdf
+TensorFlow: https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
+V2: https://github.com/google/automl/tree/master/efficientnetv2
+PyTorch: 
+V1: https://github.com/lukemelas/EfficientNet-PyTorch
+V2: 
