@@ -11,3 +11,6 @@ attach a screen:
 
 List all the screen session:
 > screen -ls
+
+Quiting
+ screen -X -S [session # you want to kill] quit
