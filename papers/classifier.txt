@@ -12,4 +12,4 @@ TensorFlow: https://github.com/tensorflow/tpu/tree/master/models/official/effici
 V2: https://github.com/google/automl/tree/master/efficientnetv2
 PyTorch: 
 V1: https://github.com/lukemelas/EfficientNet-PyTorch
-V2: 
+V2: https://github.com/d-li14/efficientnetv2.pytorch/blob/main/effnetv2.py
