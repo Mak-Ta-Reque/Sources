@@ -6,3 +6,8 @@ sudo du -sh /var
 Count files: 
  ls |wc -l
  https://devconnected.com/how-to-count-files-in-directory-on-linux/
+ 
+ Extract tar file:
+ 
+tar -tf fair.tar.gz.ab
+https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line
