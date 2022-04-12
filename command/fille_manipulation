@@ -11,3 +11,7 @@ Count files:
  
 tar -tf fair.tar.gz.ab
 https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line
+
+
+Spliting and combining tarfile:
+https://www.tecmint.com/split-large-tar-into-multiple-files-of-certain-size/
