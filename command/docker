@@ -1,1 +1,19 @@
 Introduction: https://towardsdatascience.com/using-docker-for-deep-learning-projects-fa51d2c4f64c
+
+pulling an docker image:
+docker pull nvcr.io/nvidia/tensorflow:21.04-tf2-py3
+
+Seeing all the local images:
+docker images
+
+Run an image:
+docker run -it --rm --name tensorflow2-container --network=h-it is used to open an interactive terminal
+-it is used to open an interactive terminal
+--rm is used so that when we exit the container, it will remove it
+--name is used to name the container with a custom name
+--network=host is used to have access to the Internet in the container (same network as the host machine)
+Then, we have the name of the image to use followed by bash to create an interactive shell in the containerost nvcr.io/nvidia/tensorflow:21.04-tf2-py3 bash
+
+
+Checking the running containers:
+doocker ps
