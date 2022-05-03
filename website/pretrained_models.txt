@@ -1,1 +1,3 @@
 Pre-trained models: https://modelzoo.co
+SSL framework:
+https://vissl.readthedocs.io/en/v0.1.5/extend_modules/models.html#adding-new-heads
