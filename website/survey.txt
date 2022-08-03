@@ -4,3 +4,6 @@ Google blog Sep 2021, Image Recognition :
   
 Papers graph:
 https://www.connectedpapers.com/
+
+Conference list>
+https://conferenceindex.org/conferences/machine-learning
