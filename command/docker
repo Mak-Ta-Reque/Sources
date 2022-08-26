@@ -19,3 +19,4 @@ Checking the running containers:
 doocker ps
 Detail tutorial:
 https://docker-curriculum.com/#terminology
+Remote vs code
